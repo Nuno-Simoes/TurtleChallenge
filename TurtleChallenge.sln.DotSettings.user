@@ -1,0 +1,11 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=92544d2a_002D5722_002D4222_002Da946_002Dabba5ed2ae34/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="GameBoard_InvalidArgumentsProvided_ArgumentExceptionThrown" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::DF44B786-C84D-4270-B653-D0E4C7522CB7::.NETCoreApp,Version=v3.1::TurtleChallenge.UnitTests.GameBoardTests.GameBoard_InvalidArgumentsProvided_ArgumentExceptionThrown&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::DF44B786-C84D-4270-B653-D0E4C7522CB7::.NETCoreApp,Version=v3.1::TurtleChallenge.UnitTests.GameBoardTests.GameBoard_PlaceElementOutOfBounds_ArgumentOutOfRangeExceptionThrown&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::DF44B786-C84D-4270-B653-D0E4C7522CB7::.NETCoreApp,Version=v3.1::TurtleChallenge.UnitTests.GameBoardTests.GameBoard_PlaceElement_ElementPlacedOnCorrectLocation&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::DF44B786-C84D-4270-B653-D0E4C7522CB7::.NETCoreApp,Version=v3.1::TurtleChallenge.UnitTests.GameBoardTests.MoveElement_MoveCases_ElementMovedAndExpectedResultReturned&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::DF44B786-C84D-4270-B653-D0E4C7522CB7::.NETCoreApp,Version=v3.1::TurtleChallenge.UnitTests.GameBoardTests.MoveElement_MoveOutOfBounds_ElementNotMovedAndOutOfBoundsResultReturned&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::DF44B786-C84D-4270-B653-D0E4C7522CB7::.NETCoreApp,Version=v3.1::TurtleChallenge.UnitTests.GameBoardTests.MoveElement_MoveOutOfBounds_ElementMovedAndOutOfBoundsResultReturned&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

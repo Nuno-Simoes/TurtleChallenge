@@ -1,0 +1,9 @@
+C:\Users\nuno.simoes.FARFETCH\Desktop\Stuff\TurtleChallenge\TurtleChallenge.Library\bin\Debug\netcoreapp3.1\TurtleChallenge.Library.deps.json
+C:\Users\nuno.simoes.FARFETCH\Desktop\Stuff\TurtleChallenge\TurtleChallenge.Library\bin\Debug\netcoreapp3.1\TurtleChallenge.Library.dll
+C:\Users\nuno.simoes.FARFETCH\Desktop\Stuff\TurtleChallenge\TurtleChallenge.Library\bin\Debug\netcoreapp3.1\TurtleChallenge.Library.pdb
+C:\Users\nuno.simoes.FARFETCH\Desktop\Stuff\TurtleChallenge\TurtleChallenge.Library\obj\Debug\netcoreapp3.1\TurtleChallenge.Library.csprojAssemblyReference.cache
+C:\Users\nuno.simoes.FARFETCH\Desktop\Stuff\TurtleChallenge\TurtleChallenge.Library\obj\Debug\netcoreapp3.1\TurtleChallenge.Library.AssemblyInfoInputs.cache
+C:\Users\nuno.simoes.FARFETCH\Desktop\Stuff\TurtleChallenge\TurtleChallenge.Library\obj\Debug\netcoreapp3.1\TurtleChallenge.Library.AssemblyInfo.cs
+C:\Users\nuno.simoes.FARFETCH\Desktop\Stuff\TurtleChallenge\TurtleChallenge.Library\obj\Debug\netcoreapp3.1\TurtleChallenge.Library.csproj.CoreCompileInputs.cache
+C:\Users\nuno.simoes.FARFETCH\Desktop\Stuff\TurtleChallenge\TurtleChallenge.Library\obj\Debug\netcoreapp3.1\TurtleChallenge.Library.dll
+C:\Users\nuno.simoes.FARFETCH\Desktop\Stuff\TurtleChallenge\TurtleChallenge.Library\obj\Debug\netcoreapp3.1\TurtleChallenge.Library.pdb

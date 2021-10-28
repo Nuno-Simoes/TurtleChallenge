@@ -1,0 +1,9 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\nuno.simoes.FARFETCH\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\nuno.simoes.FARFETCH\\.nuget\\packages",
+      "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+    ]
+  }
+}
