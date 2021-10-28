@@ -1,5 +1,5 @@
 # TurtleChallenge
-.NET implementation of the Turtle Challenge
+.NET implementation of the Turtle Challenge.
 
 To run it use:
 
