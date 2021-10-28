@@ -1,0 +1,20 @@
+{
+  "BoardSize": {
+    "Width": 5,
+    "Height": 4
+  },
+  "StartPosition" : {
+    "X": 0, 
+    "Y": 1, 
+    "Direction": "North"
+  },
+  "ExitPosition" : {
+    "X": 4, 
+    "Y": 2
+  },
+  "MinePositions" : [
+    {"X": 1, "Y": 1}, 
+    {"X": 3, "Y": 1}, 
+    {"X": 3, "Y": 3}
+  ]
+}
